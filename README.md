@@ -12,6 +12,8 @@ Repositori ini berisi catatan tahapan untuk proses implementasi Siakad dari LPTN
 - Periksa jumlah karakter untuk kode matakuliah di universitas anda. Untuk Siakad, panjang default kode matakuliah adalah `10 karakter`.
 - Pastikan tidak ada data mahasiswa yang memiliki nim sama di lintas prodi. Kemungkinan terjadi karena salah ketik pada saat memasukkan data ke PDDIKTI. Jika ada yang salah, silahkan perbaiki terlebih dahulu data di excel nya dan perbaiki nim mahasiswa di excel hasil export krs.
 
+Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://github.com/addingama/siakad-lptnu-issues/blob/main/pre-migration.md](https://github.com/addingama/siakad-lptnu-issues/blob/main/pre-migration.md)
+
 
 ## Migrasi Data
 
