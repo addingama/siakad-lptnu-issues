@@ -28,3 +28,11 @@ Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://git
 9. Input Tarif Wisuda
 10. Input Data Pegawai -> Dosen dan Non Dosen
 
+
+## Alur Untuk Memulai kegiatan akademik per semester
+
+1.
+2.
+3.
+4.
+5.
