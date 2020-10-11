@@ -16,7 +16,7 @@ Solusi:
 - Import ulang file yang telah di modifikasi
 
 
-## Isue 2
+## Issue 2
 
 Terdapat kesalahan data NIM Mahasiswa. Ada kasus dimana nim yang sama digunakan pada beberapa Program Studi.
 
