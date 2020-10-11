@@ -17,7 +17,7 @@ Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://git
 
 ## Migrasi Data
 
-1. Input Data Unit
+1. Input Data Unit -> Usahakan kode unit prodi/fakultas/univ sama dengan yang ada di PDDIKTI
 2. Import Data Mahasiswa
 3. Import Data Matakuliah
 4. Import Data Kelas
@@ -26,3 +26,5 @@ Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://git
 7. Input Tarif Tagihan Rutin
 8. Input Tarif Form
 9. Input Tarif Wisuda
+10. Input Data Pegawai -> Dosen dan Non Dosen
+
