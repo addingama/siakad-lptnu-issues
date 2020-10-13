@@ -27,6 +27,7 @@ Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://git
 8. Input Tarif Form
 9. Input Tarif Wisuda
 10. Input Data Pegawai -> Dosen dan Non Dosen
+11. Buat akun TU Prodi untuk masing-masing prodi
 
 
 ## Alur Untuk Memulai kegiatan akademik per semester
