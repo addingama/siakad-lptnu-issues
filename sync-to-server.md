@@ -34,3 +34,8 @@ Catatan:
 
 Pada contoh di atas, kami mengabaikan folder dari IDE dan foto mahasiswa pada saat melakukan sync ke server.
 
+
+## Tahap 3
+
+Hubungi admin server UNUSA untuk membantu mengubah permission di file-file yang ter-upload. Karena server digunakan bersama, user tidak bisa mengubah permission file.
+
