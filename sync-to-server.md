@@ -1,5 +1,10 @@
 # Auto Sync changed file to server
 
+## Disclaimer
+Segala jenis kerusakan atau kehilangan data pada server menjadi tanggung jawab masing-masing.
+
+
+
 [rsync usage article](https://www.tecmint.com/sync-new-changed-modified-files-rsync-linux/)
 
 ## Persiapan
