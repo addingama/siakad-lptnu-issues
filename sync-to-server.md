@@ -21,7 +21,7 @@ Proses ini cukup dilakukan satu kali saja
 ## Tahap 2
 
 - Lakukan perubahan di local
-- Buat sebuah file dengan nama `upload_to_server.sh` pada root project dan masukkan perintah berikut `rsync -a --exclude '.idea' --exclude 'siakad/siakad/uploads' --recursive --update -e 'ssh -p <port ssh server>' --progress . usernamessh@sia.unu-ntb.ac.id:/home/usernamessh/`
+- Buat sebuah file dengan nama `upload_to_server.sh` pada root project dan masukkan perintah berikut `rsync -a --exclude '.idea' --exclude 'siakad/siakad/uploads' --recursive --update -e 'ssh -p <port ssh server>' --progress . usernamessh@domainuniv:/home/usernamessh/`
 - Open terminal dan tambahkan permission to execute untuk file tersebut, `chmod +x upload_to_server.sh`
 - Jalankan perintah `./upload_to_server.sh` melalui terminal untuk melakukan proses upload. Anda harus melakukan input password SSH jika command mulai dieksekusi
 
