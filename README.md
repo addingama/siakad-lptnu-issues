@@ -26,7 +26,7 @@ Untuk solusi kasus-kasus tersebut dapat dilihat pada link berikut : [https://git
 7. Input Tarif Tagihan Rutin
 8. Input Tarif Form
 9. Input Tarif Wisuda
-10. Input Data Pegawai -> Dosen dan Non Dosen
+10. Input Data Pegawai -> Dosen dan Non Dosen, jangan lupa masukkan NPP nya, kami menggunakan NIB untuk field NPP
 11. Buat akun TU Prodi untuk masing-masing prodi
 
 
